@@ -1,4 +1,4 @@
-# lists in python 
+# lists in python once declard we can also update in  the middle mutable changable
 
 nums = [15,19,62,54,87,5,47]
 print(nums)
