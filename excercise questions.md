@@ -85,3 +85,40 @@ First 3 Elements : [78, 92, 65]
 
 
 
+Exercise 1 — Data Type Conversion
+
+Question:
+
+Create a program that:
+
+Stores 98.75 in a variable.
+Convert it to an integer.
+Convert that integer into a complex number by adding an imaginary part of 5.
+Print the type after each conversion.
+Expected Output
+98
+<class 'int'>
+(98+5j)
+<class 'complex'>
+
+Print the following:
+
+int(True)
+int(False)
+Result of 15 > 10
+Type of 15 > 10
+Expected Output
+1
+0
+True
+<class 'bool'>
+
+Using range() print:
+
+Numbers from 10 to 20
+Even numbers from 10 to 20
+Odd numbers from 11 to 19
+Expected Output
+[10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+[10, 12, 14, 16, 18]
+[11, 13, 15, 17, 19]
