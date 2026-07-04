@@ -122,3 +122,94 @@ Expected Output
 [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 [10, 12, 14, 16, 18]
 [11, 13, 15, 17, 19]
+
+
+🟢 EASY - 1
+
+Create a student profile using:
+
+Variables
+String
+List (5 subjects)
+Tuple (DOB)
+Set (Skills)
+Dictionary (Marks of 3 subjects)
+
+Print:
+
+Student Name
+First 3 characters of name
+Last character of name
+Number of subjects
+First subject
+DOB
+Number of unique skills
+Marks dictionary keys
+Marks dictionary values
+Expected Output
+Name : Sravan Kumar
+Sra
+r
+5
+Python
+(17, 2, 2005)
+3
+dict_keys(['Python', 'Java', 'SQL'])
+dict_values([95, 88, 92])
+
+
+
+Create a company profile.
+
+Store:
+
+Company Name
+Package
+Required Skills (Set)
+Interview Rounds (List)
+
+Print:
+
+Company Name
+Length of Company Name
+First Interview Round
+Total Interview Rounds
+Package Type
+Required Skills
+Expected Output
+Google
+6
+OA
+4
+<class 'int'>
+{'Python', 'DSA', 'SQL'}
+
+
+
+
+🟡 MODERATE - 1
+Create a dictionary of an employee.
+
+Store:
+Name
+Company
+Salary
+
+Create another list containing:
+
+Python
+SQL
+Git
+Linux
+
+Print:
+
+Employee Name
+Company
+First Skill
+Last Skill
+Middle Two Skills
+Length of Skills
+Salary Type
+First 4 characters of Company
+
