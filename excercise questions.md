@@ -213,3 +213,61 @@ Length of Skills
 Salary Type
 First 4 characters of Company
 
+
+
+
+
+
+🟡 MODERATE - 2
+
+Using only range() create:
+
+Numbers from 1–30.
+
+Print:
+
+First 10 numbers
+Last 10 numbers
+Numbers divisible by 5
+Length
+Type
+Expected Output
+[1,2,3,4,5,6,7,8,9,10]
+[21,22,23,24,25,26,27,28,29,30]
+[5,10,15,20,25,30]
+30
+<class 'list'>
+
+
+🔴 HARD - 1
+
+Create a Placement Database.
+
+Store:
+
+Student Name
+College
+Branch
+CGPA
+Skills (Set)
+Subjects (List)
+Marks (Dictionary)
+Graduation Year
+DOB (Tuple)
+
+Now print:
+
+Student Name
+First Name only
+Last Name only
+First Skill
+Total Skills
+First Subject
+Last Subject
+Highest Marks Subject (manually choose from dictionary)
+Dictionary Keys
+Dictionary Values
+Branch Length
+Type of CGPA
+Graduation Year + 1
+Last 3 characters of College
