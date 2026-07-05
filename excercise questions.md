@@ -271,3 +271,53 @@ Branch Length
 Type of CGPA
 Graduation Year + 1
 Last 3 characters of College
+
+🔴 HARD - 2 (Interview Style)
+
+Create an AI Engineer Profile.
+
+Store:
+
+Name
+Role
+Company
+Experience
+Salary
+Technologies (List)
+Certifications (Tuple)
+Projects (Set)
+Performance (Dictionary)
+
+Print:
+
+Full Name
+Initials
+Company Length
+Last Technology
+First 2 Technologies
+Number of Projects
+Number of Certifications
+Performance Keys
+Performance Values
+Type of Salary
+Boolean Result of Salary > 15
+Integer value of the Boolean
+Numbers from 2–20 using range()
+Even numbers
+Odd numbers
+Expected Output
+Sravan Kumar
+SK
+6
+Docker
+['Python','SQL']
+4
+3
+dict_keys(...)
+dict_values(...)
+<class 'int'>
+True
+1
+[2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+[2,4,6,8,10,12,14,16,18,20]
+[3,5,7,9,11,13,15,17,19]
