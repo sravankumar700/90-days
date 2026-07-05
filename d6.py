@@ -103,18 +103,7 @@ def main():
                 print("Error: Factorial is defined for non-negative integers only.")
             else:
                 print("Result:", math.factorial(n))
-        elif choice == "13":
-            a = get_number("Enter number: ")
-            print("Result:", abs(a))
-        elif choice == "14":
-            a = get_number("Enter exponent: ")
-            print("Result:", math.exp(a))
-        elif choice == "15":
-            a = get_number("Enter degrees: ")
-            print("Result:", math.radians(a))
-        else:
-            print("Invalid selection. Try again.")
-
+        
         print()
 
 

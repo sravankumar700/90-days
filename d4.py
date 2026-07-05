@@ -1,7 +1,7 @@
 # /////////////                                         //      Dictionaries in detail                              ///////////////
 dit = {"sravan":"java","chandu":"js","hari":"c#"}
 print(dit)
-print(dit.keys())
+print(dit.keys())   
 print(dit.values())
 
 
