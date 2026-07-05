@@ -7,8 +7,6 @@ print(tup)
 tup[1] = 58
 print(tup)
 
-
-
 # sets in python its a collection  unique elements stored in curly brackes .
 set = {51,65,4,75,155,21}
 print(set)
