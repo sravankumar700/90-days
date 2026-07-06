@@ -336,3 +336,166 @@ Expected Output
 0b10000000
 0o200
 0x80
+
+
+Question 2
+
+A system stores the value 144. Display:
+
+Square root
+Floor of 9.95
+Ceiling of 9.01
+
+Expected Output
+
+12.0
+9
+10
+
+Question 3
+
+Two conditions are:
+
+Age is greater than 18.
+Salary is greater than ₹5 LPA.
+
+Display:
+
+Result using AND
+Result using OR
+Opposite of the first condition
+
+Expected Output
+
+True
+True
+False
+
+
+🟡 Level 2 (Moderate)
+Question 1
+
+Two system flags are 45 and 29.
+
+Display:
+
+Bitwise AND
+Bitwise OR
+Bitwise XOR
+
+Expected Output
+
+13
+61
+48
+
+
+
+
+Question 2
+
+A cloud server has 64 GB RAM.
+
+Display:
+
+Left Shift by 3
+Right Shift by 2
+
+Expected Output
+
+512
+16
+
+
+A company stores:
+
+CPU = 16
+RAM = 32
+Storage = 512
+
+Display:
+
+Binary value of Storage
+Hexadecimal value of RAM
+Whether CPU is greater than 8 AND RAM is greater than 16
+
+Expected Output
+
+0b1000000000
+0x20
+True
+
+
+
+🔴 Level 3 (Hard)
+Question 1
+
+A security system stores the values 170 and 85.
+
+Display:
+
+Bitwise AND
+Bitwise OR
+Bitwise XOR
+Left Shift of the first value by 2
+Right Shift of the second value by 3
+
+Expected Output
+
+0
+255
+255
+680
+10
+
+Question 2
+
+A data center stores:
+
+Servers = 1024
+Active Servers = 768
+
+Display:
+
+Binary value of Active Servers
+Octal value of Servers
+Hexadecimal value of Active Servers
+Square root of Servers
+Floor of 31.99
+Ceiling of 31.01
+
+Expected Output
+
+0b1100000000
+0o2000
+0x300
+32.0
+31
+32
+
+Question 3 (Interview Level)
+
+A candidate has:
+
+Coding Score = 88
+Aptitude Score = 76
+
+Display:
+
+Bitwise AND
+Bitwise OR
+Bitwise XOR
+Binary value of Coding Score
+Hexadecimal value of Aptitude Score
+Whether Coding Score is greater than 80 AND Aptitude Score is greater than 70
+Opposite of the condition "Coding Score is less than 90"
+
+Expected Output
+
+72
+92
+20
+0b1011000
+0x4c
+True
+False
