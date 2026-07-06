@@ -63,7 +63,7 @@ print(type(PI))
 
 ##### data types ######
 #### none = a null a value where a variable doesnot have assigned any value####
-#### numeric  4 types int , float , omplex , boolean ###
+#### numeric  4 types int , float , complex , boolean ###
 
 num = 2.5
 print(type(num))
@@ -115,7 +115,7 @@ print(list(range(1,19,2)))
 
  
 #### dictionary 
-# IN dictonary we store the data as key value pairs in a set eg : "sai":"samusung" ###
+# In dictonary we store the data as key value pairs in a set eg : "sai":"samusung" ###
 # from the above eg sai is the key and samusubg is the value 
 # here in dictionary evry key should need to be unique otherwise it will overwrite the  value of original key ####
 
