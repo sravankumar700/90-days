@@ -590,3 +590,29 @@ Joining Year          :
 ==================================================
               END OF REPORT
 ==================================================
+
+
+
+
+
+
+
+
+🟡 Moderate Level – if / else / elif
+Q1 – Employee Bonus
+
+A company gives bonuses based on years of experience.
+
+10 years or more → Platinum Bonus
+5–9 years → Gold Bonus
+2–4 years → Silver Bonus
+Less than 2 years → No Bonus
+
+Input
+
+6
+
+Expected Output
+
+Gold Bonus
+

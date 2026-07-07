@@ -1,0 +1,91 @@
+i = 6
+if i>=10:
+    print("Platinum Bonus ")
+elif i in range(5,9):
+    print("Gold Bonus")
+elif i in range(2,4) :
+    print("Silver Bonus")
+else :
+    print("NO Bonus")
+
+withdraw = 12000
+balance = 15000
+if withdraw<=balance :
+    print("Transaction Successful")
+else :
+    print("Insufficient Balance")
+
+salary = 9
+if salary>=15 :
+    print("High Tax")
+elif salary>= 8 :
+    print("Medium Tax")
+else :
+    print("Low Tax")
+
+crct_username = "admin"
+crct_password = "python123"
+username = "admin"
+password = "python123"
+if username ==crct_username and password == crct_password :
+    print("Login Successfull")
+else :
+    print("Invalid Credentials")
+
+i = 8.4
+if i >=9.0 :
+    print("100% Scholarship")
+elif    i >=8.0 :
+    print("75% Scholarship")
+elif    i >=7.0 :
+    print("50% Scholarship")
+else :
+    print("No Scholarship")
+
+
+product_amount = 32000
+if product_amount>=50000 :
+    print("20% Discount")
+elif product_amount>=25000 :
+    print("10% Discount")
+elif product_amount in range(10000,24999):
+    print("5% Discount")
+else :
+    print("No Discount")
+    
+
+st_marks = 68
+if st_marks>=75 :
+    print("Distinction")
+elif st_marks>=60 :
+    print("First Class")
+elif st_marks>=50 :
+    print("Second Class")
+elif st_marks>=35 :
+    print("Pass")
+else :
+    print("Fail")
+
+age = 21
+cgpa = 7.8
+if age >=18 and cgpa>=7.0 :
+    print("Eligible")
+else:
+    print("Not Eligible")
+
+
+experience = 2
+if experience >= 2 :
+    print("Advanced")
+if experience == 1 :
+    print("Intermediate")
+if experience == 0 :
+    print("Beginner")
+
+
+pin = 1234
+input_pin = 1234
+if pin == input_pin :
+    print("Phone Unlocked")
+else :
+    print("Incorrect Pin")
