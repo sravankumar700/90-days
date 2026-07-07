@@ -499,3 +499,94 @@ Expected Output
 0x4c
 True
 False
+
+
+
+
+🟡 Mock Interview Round 2
+Company: Amazon SDE Intern (Fundamentals Round)
+Scenario
+
+Amazon's recruitment team wants a small console application to generate an internship candidate report before scheduling interviews.
+
+The HR manager has given you the following requirements.
+
+The report must display:
+
+Candidate ID
+Candidate Name
+College
+Branch
+Current CGPA
+Graduation Year
+
+The report must also include:
+
+All programming languages known by the candidate
+Total programming languages
+All technologies the candidate has worked with
+Total technologies
+All completed projects
+Total projects
+Technical interview scores
+Highest interview score
+Lowest interview score
+
+Finally, display:
+
+Internship stipend
+Stipend data type
+Binary representation of stipend
+Hexadecimal representation of stipend
+
+The HR team also wants to know:
+
+Whether the candidate is eligible for the internship.
+Expected joining year (one year after graduation).
+
+End the report professionally.
+
+Expected Output Format
+==================================================
+           AMAZON INTERNSHIP REPORT
+==================================================
+
+----------- Candidate Details -----------
+
+Candidate ID          :
+Candidate Name        :
+College               :
+Branch                :
+CGPA                  :
+Graduation Year       :
+
+----------- Technical Profile -----------
+
+Programming Languages :
+Total Languages       :
+
+Technologies          :
+Total Technologies    :
+
+Projects              :
+Total Projects        :
+
+----------- Assessment -----------
+
+Interview Scores      :
+Highest Score         :
+Lowest Score          :
+
+----------- Internship -----------
+
+Stipend               :
+Type                  :
+Binary                :
+Hexadecimal           :
+
+Eligible              :
+Joining Year          :
+
+==================================================
+              END OF REPORT
+==================================================

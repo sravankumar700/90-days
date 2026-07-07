@@ -48,9 +48,14 @@
 # print(z)
 
 
-ch = input("Enter a Character :")[0]
-print(ch)
-result = eval(input("enter an expresssion:"))
-print(result)
+# ch = input("Enter a Character :")[0]
+# print(ch)
+# result = eval(input("enter an expresssion:"))
+# print(result)
 
 # Passing values from command line
+import sys
+x = int(sys.argv[1])
+y =int(sys.argv[0])
+z = x+y
+print(z)
