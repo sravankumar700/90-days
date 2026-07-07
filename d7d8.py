@@ -89,3 +89,43 @@ if pin == input_pin :
     print("Phone Unlocked")
 else :
     print("Incorrect Pin")
+
+
+age  = 21
+aadhar = True
+if age >=18 and aadhar == True :
+    print("Eligible to vote")
+else :
+    print("Not eligible to vote ")
+
+gpa = 8.1
+entrance_score = 82
+if gpa >=8.1 and entrance_score >=82 :
+    print("Admission Granted")
+else: 
+    print("No Admission")
+
+kids = 12
+senior_citizens  = 60
+customer = 65
+if customer <kids or customer>senior_citizens :
+    print("50% Discount")
+else :
+    print("No Discount")
+
+grade = 8.4
+vayasu = 21
+language = "python"
+if grade>=7.5 or vayasu>=21 and language == "python" :
+    print("Selected For Interview")
+else :
+    print("Not Selected For Interview")
+
+
+technical_score = 92
+communication = 80
+grad_year = 2027,2028
+if technical_score >=80 and communication >=80 and grad_year ==grad_year :
+    print("Hired")
+else:
+    print("Rejected")
