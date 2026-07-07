@@ -129,3 +129,51 @@ if technical_score >=80 and communication >=80 and grad_year ==grad_year :
     print("Hired")
 else:
     print("Rejected")
+
+
+
+i =1 
+while i <11 :
+    print(i)
+    i=i+1
+
+
+i = 1
+while i <6 :
+    print("sravan",end="")
+    j= 1
+    while j<=1 :
+        print("Kumar",end="")
+        j = j+1
+    i=i+1
+    print()
+
+i =10 
+while i >=1 :
+    print(i)
+    i=i-1
+
+i =5 
+i% 5
+while i <= 50 :
+    print(i)
+    i=i+5
+
+# i = 1
+# while i <= 100 :
+#     print(eval(i))
+#     i =i+1
+
+
+i=1
+if i<=50 :
+    while r1 == i % 2 :
+        print("Even Count :",round(i))
+        i= i+1
+else r2 = i%1 :
+    print("ODD Number :",round(i))
+    i = i+1
+
+
+
+
