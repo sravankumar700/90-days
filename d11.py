@@ -23,10 +23,12 @@ q5 = array('i',[])
 for i in range (6): 
     x = int(input('Enter An Element to store :'))
     q5.append(x)
-if i == 303 :
-    print("Element found")
-    break
+print(q5)
+search = int(input("Enter number to search :"))
+for i in range(len(q5)) :
+    if q5[i] == search :
+        print("Element found")
+        print(i)
+        break
 else:
     print("not Found")
-
-print(q5)
