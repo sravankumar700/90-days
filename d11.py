@@ -19,16 +19,40 @@ from array import *
 #     i = i+1
 
 
-q5 = array('i',[])
-for i in range (6): 
-    x = int(input('Enter An Element to store :'))
-    q5.append(x)
-print(q5)
-search = int(input("Enter number to search :"))
-for i in range(len(q5)) :
-    if q5[i] == search :
-        print("Element found")
+# q5 = array('i',[])
+# for i in range (6): 
+#     x = int(input('Enter An Element to store :'))
+#     q5.append(x)
+# print(q5)
+# search = int(input("Enter number to search :"))
+# for i in range(len(q5)) :
+#     if q5[i] == search :
+#         print("Element found")
+#         print(i)
+#         break
+# else:
+#     print("not Found")
+
+
+
+
+
+from math import *
+h1 = array('i',[])
+for i in range (10):
+    y = int(input("Enter a Number"))
+    h1.append(y)
+print(h1)
+print(max(h1))
+print(min(h1))
+print(sum(h1))
+# print(average(sum(h1)))
+for  i in h1 :
+    if i>=80 in h1 :
         print(i)
-        break
-else:
-    print("not Found")
+    elif i<35 in h1 :
+        print(i)
+
+
+
+
