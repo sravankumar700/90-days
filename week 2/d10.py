@@ -50,4 +50,3 @@ for e in array :
 		break
 
 	k+=1
-# print(arr.index(4))
