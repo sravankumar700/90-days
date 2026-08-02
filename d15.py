@@ -5,3 +5,7 @@ arr.append(5)
 print(arr)
 arr.pop()
 print(arr)
+arr.insert(2, 10)
+print(arr)
+
+
